@@ -4,6 +4,7 @@
 To connect computers in multiple networks using Open Shortest Path First Routing Protocol and to verify the connectivity between computers.
 
 # EQUIPMENTS REQUIRED
+Laptop with Cisco packet tracer software
 
 # IP ASSIGNMENT
 
@@ -22,6 +23,8 @@ STEP 10: Verify the connectivity between PC Terminals in different networks usin
 STEP 11: Check the routing table in Delhi router and Chennai router using show ip route command
 
 # OUTPUT
+<img width="885" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c5dd722-3448-418a-ba4c-90b202ce4c2c" />
+<img width="886" height="1600" alt="image" src="https://github.com/user-attachments/assets/bfb940ea-4101-4d3e-a9fd-276acf39ce8f" />
 
 
 
