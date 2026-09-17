@@ -10,6 +10,7 @@ Laptop with Cisco packet tracer software
 <img width="934" height="1600" alt="image" src="https://github.com/user-attachments/assets/f04ea13d-47ee-42c3-af20-4c49cbccb8cf" />
 
 # NETWORK DIAGRAM
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe049c83-364f-479e-95fb-b325ed06f70b" />
 
 
 # PROCEDURE
