@@ -7,6 +7,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 Laptop with Cisco packet tracer software
 
 # IP ASSIGNMENT
+<img width="934" height="1600" alt="image" src="https://github.com/user-attachments/assets/f04ea13d-47ee-42c3-af20-4c49cbccb8cf" />
 
 # NETWORK DIAGRAM
 
